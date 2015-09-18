@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mozu_BED_Training_Exercise_9_2
+namespace Mozu_BED_Training_Exercise_9_3
 {
     class Bootstrapper : AbstractBootstrapper
     {
